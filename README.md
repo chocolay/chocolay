@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chocolay
+- 👋 Hi, I’m Elise
 - 👀 I’m interested in Deep Learning, Monte Carlo simulations, nonlinear differential equations, blockchains and smart contracts
 - 🌱 I’m currently learning TEAL
 - 💞️ I’m looking to collaborate on crypto projects
